@@ -1,0 +1,16 @@
+id: P3725AB6F
+initial_creation_type: input
+source_metadata:
+  title: Rongzom Chökyi Zangpo
+  language: en
+  description: 'Texts by and about the great 11th-century Nyingma scholar Rongzom
+    Chökyi Zangpo (rong zom chos kyi bzang po):'
+  volume:
+    8dcd889973254248b9559e984cd67b1e:
+      title: The Black Snake Discourse
+      parent: Buddhist Philosophy
+    f5dad6f8f4b044bca055b033b2dfdd98:
+      title: 'Shower of Blessings: A Guru Yoga of the Great Paṇḍita, Glorious Rongzom'
+      parent: Guru Yoga
+created_at: '2022-03-01T01:25:00.216947'
+last_modified_at: '2022-03-01T01:25:00.216953'
